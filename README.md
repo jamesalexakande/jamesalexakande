@@ -12,22 +12,23 @@ As a technical writer, I constantly seek opportunities to use my skills and expe
 
 While a lot of what I do at my current role is proprietary, here you can find samples of past work, technical articles, as well as open-source projects I have contributed to. 
 
-###**End-User Documeentation**
+### **End-User Documentation**
 - [Twitter](https://twitter.com/JamesDescriptor)
 - [LinkedIn](linkedin.com/in/olatunde-james-akande/)
 - [Hashnode](https://hashnode.com/@jamesakande)
 - [Instagram](https://www.instagram.com/thedescriptorwrites/)
 
-###**Developer Documentation**
+### **Developer Documentation**
 
-###**Technical Articles**
+### **Technical Articles**
 
-###**Documentation Review**
+### **Documentation Review**
 
 - ⚡ Fun fact: I write poetry 😄
 
 ## Useful Links/Ways to Reach Me 👇 
-
+Open to more discussions on what I do? 
+Feel free to reach me via the following:
 + [Twitter](https://twitter.com/JamesDescriptor)
 + [LinkedIn](linkedin.com/in/olatunde-james-akande/)
 + [Hashnode](https://hashnode.com/@jamesakande)
