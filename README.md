@@ -1,5 +1,5 @@
 # James here👋
-## Technical Writer | SaaS, Finance, Web3 | Writing docs, tutorials, and content that bridge the gap between code and users
+## Technical Writer | SaaS, Finance, Web3 | Writing docs, tutorials, and content that bridge the gap between applications and users
 ----
 Ohayo Gozeimazu!
 
