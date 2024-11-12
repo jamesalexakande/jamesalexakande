@@ -1,11 +1,11 @@
 # James here👋
-## Technical Writer | SaaS, Finance, Web3 | Writing docs, tutorials, and content that bridge the gap between applications and users
+## Technical Writer | Writing documentation and technical content that bridge the gap between applications and users in SaaS, Web3 and Finance
 ----
 Ohayo Gozeimazu!
 
 I'm James Akande, a technical writer and content marketer specializing in SaaS, Banking/Finance, and Web3.
 
-With experience in creating long-form technical articles, online help guides and tutorials, application user guides and manuals, release notes, and documentation reviews, I aim to create comprehensive and user-friendly software documentation. My goal is to take complex technical information and make it easy to understand for a wide range of audiences. With experience in various tools and content management systems, I focus on producing content that’s both comprehensive and accessible, bridging the clarity-complexity gap between tools and applications, and their non-technical users.
+With experience in creating long-form technical articles, online help guides and tutorials, end- user guides and manuals, release notes, and documentation reviews, I aim to create clear and user-friendly software documentation. With experience in various tools and content management systems, I focus on producing content that’s both comprehensive and accessible, bridging the clarity-complexity gap between product owners and application managers, their tools and applications, and their non-technical users.
 
 As a technical writer, I enjoy collaborating with teams to create content that bridges the gap between technical details and end users, ensuring clarity, simplicity, and conciseness in everything I do. I constantly seek opportunities to use my skills and experience to contribute to the growth of companies creating innovative and disruptive products and services. 
 
