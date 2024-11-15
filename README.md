@@ -34,8 +34,6 @@ While much of what I do at my current role is proprietary, you can check out sam
 ## Useful Links/Ways to Reach Me 👇 
 Open to more discussions on what I do? 
 Feel free to reach me via the following:
++ [Email](mailto:jamesalexakande@gmail.com)
 + [Twitter](https://twitter.com/JamesDescriptor)
 + [LinkedIn](linkedin.com/in/olatunde-james-akande/)
-+ [Hashnode](https://hashnode.com/@jamesakande)
-+ [Instagram](https://www.instagram.com/thedescriptorwrites/)
-
