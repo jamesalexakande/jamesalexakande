@@ -18,6 +18,10 @@ While much of what I do at my current role is proprietary, you can check out sam
 ### Release Notes
 - [Release Notes - Introducing the New GTWorld App for Android](https://zaycodes-1686045136273.hashnode.dev/introducing-the-new-gtworld-app-for-android)
 
+### API Documentation
+- [MeCash - CrossBorder API endpoint](https://github.com/jamesalexakande/mecash-crossborder-api/blob/main/API_Documentation.md)
+- [Sabre Booking API - Get Booking Method](https://github.com/jamesalexakande/Sabre-Get-Booking-Method/blob/main/API_DOCUMENTATION.md))
+
 ### How-Tos and Tutorials
 - [How To Create Simple and Impressive GitHub Profile ReadMEs](https://zaycodes-1686045136273.hashnode.dev/creating-simple-and-impressive-github-profile-readmes-a-guide)
 - [A Technical Writer's Guide To Markdown](https://technicallyjames.hashnode.dev/a-technical-writers-guide-to-markdown)
@@ -26,7 +30,6 @@ While much of what I do at my current role is proprietary, you can check out sam
 - [A Technical Writer's Guide To Open Source](https://technicallyjames.hashnode.dev/writing-for-devs-a-technical-writers-guide-to-open-source)
 - [Understanding Smart Contracts: The Backbone of the Blockchain](https://docs.google.com/document/d/1o8Wf36b_89-qRJPDewQ-ChtgEcETSMHu/edit#heading=h.o1lwp3za21tv)
 - [Overcoming Barriers To Blockchain Implementation](https://docs.google.com/document/d/1bQ8qfeUdgst11fqj_v6GoyDfOMTfrtjN/edit)
-- [Interoperability: Connecting Multiple Blockchains For Seamless Solutions](https://docs.google.com/document/d/1xj_igQ4B8N6QEqMbFgeYR4tDvoHLPvL8KZACtokt_kQ/edit?tab=t.0#heading=h.i1v3oyw8dcu4)
 
 ### Documentation Review
 - [Doc Review - Spotlighting The Appflowy Documentation](https://zaycodes-1686045136273.hashnode.dev/spotlighting-the-appflowy-docs)
