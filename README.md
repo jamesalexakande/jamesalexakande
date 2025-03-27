@@ -55,7 +55,7 @@ Currently, I’m **expanding my expertise to focus on  cloud, AI, and DevRel**,
 I'm always open to discussions on **technical writing, DevRel, AI, blockchain, and documentation best practices**.
 
 📧 **Email:** [jamesalexakande@gmail.com](mailto\:jamesalexakande@gmail.com)\
-🐦 **Twitter/X:** [@JamesDescriptor](https://twitter.com/JamesDescriptor)\
+🐦 **Twitter/X:** [@JamesDescriptor](https://twitter.com/JamesAAkande)\
 💼 **LinkedIn:** [Olatunde James Akande](https://linkedin.com/in/olatunde-james-akande/)
 
 Want to collaborate or discuss documentation strategy? Let’s talk! 🚀
