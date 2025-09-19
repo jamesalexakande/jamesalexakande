@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Ohayo Gozaimasu!;
+Ohayo!
 
 I'm **James Akande**, a technical writer and documentation specialist passionate about making software more accessible through clear, concise, and user-focused content.
 
@@ -38,7 +38,7 @@ Currently, I’m **expanding my expertise to focus on  cloud, AI, and DevRel**,
 - [MeCash - CrossBorder API](https://github.com/jamesalexakande/mecash-crossborder-api/blob/main/API_Documentation.md)
 - [Sabre Booking API](https://github.com/jamesalexakande/Sabre-Get-Booking-Method/blob/main/API_DOCUMENTATION.md)
 
-### 📝 **Technical Articles**
+### 📝 **Explainer Articles**
 
 - [A Technical Writer's Guide To Open Source](https://technicallyjames.hashnode.dev/writing-for-devs-a-technical-writers-guide-to-open-source)
 - [Understanding Smart Contracts](https://docs.google.com/document/d/1o8Wf36b_89-qRJPDewQ-ChtgEcETSMHu/edit#heading=h.o1lwp3za21tv)
